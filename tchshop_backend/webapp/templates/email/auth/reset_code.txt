@@ -1,0 +1,19 @@
+    Verification Code
+
+
+    To verify your account, enter this code in Toolshop
+
+    {{ token }}
+
+    Reset password code expires after 2hours.
+
+    If you didn't request this you can ignore
+
+
+    Support, xyrustech@outlook.com
+    HACLTOOLS.SHOP
+
+    Note: replies to this email address are not monitored.
+
+
+

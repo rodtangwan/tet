@@ -1,0 +1,4 @@
+
+check transactions
+User {{user.email}}, transactions: {{user.transactions}} 
+Grand Total : {{grand_total}}
